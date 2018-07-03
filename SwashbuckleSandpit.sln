@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwashbuckleSandpit", "SwashbuckleSandpit\SwashbuckleSandpit.csproj", "{060B0E08-F7A4-4ECF-9041-3840028251AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwashbuckleSandpit.IntegrationTests", "SwashbuckleSandpit.IntegrationTests\SwashbuckleSandpit.IntegrationTests.csproj", "{9F96F1DA-D829-4784-96DE-A13C99012708}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{060B0E08-F7A4-4ECF-9041-3840028251AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{060B0E08-F7A4-4ECF-9041-3840028251AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{060B0E08-F7A4-4ECF-9041-3840028251AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F96F1DA-D829-4784-96DE-A13C99012708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F96F1DA-D829-4784-96DE-A13C99012708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F96F1DA-D829-4784-96DE-A13C99012708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F96F1DA-D829-4784-96DE-A13C99012708}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
